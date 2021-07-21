@@ -82,3 +82,9 @@ h2 {
 
 /* ------------- pod čáru přijdou tvé styly ------------- */
 
+@media screen and (min-width:600px) {
+	.kontejner{
+		display: flex;
+		flex-direction: row;
+	}
+}
